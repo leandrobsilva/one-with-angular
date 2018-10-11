@@ -9,7 +9,7 @@
     "build": "ng build",
     "test": "ng test --single-run",
     "lint": "ng lint",
-    "ci": "npm run test && npm run build"
+    "ci": "npm run test && npm run build",
     "e2e": "ng e2e",
     "sme": "./node_modules/.bin/source-map-explorer"
   },
